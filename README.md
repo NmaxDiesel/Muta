@@ -1,1 +1,7 @@
 # Muta
+
+bg
+
+obj
+
+req
